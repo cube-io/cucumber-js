@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "cucumber",
   "description": "The official JavaScript implementation of Cucumber.",
   "keywords": [
@@ -8,7 +8,7 @@
     "gherkin",
     "tests"
   ],
-  "version": "0.3.3",
+  "version": "0.3.3-justfone",
   "homepage": "http://github.com/cucumber/cucumber-js",
   "author": "Julien Biezemans <jb@jbpros.com> (http://jbpros.net)",
   "contributors": [
@@ -39,11 +39,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/cucumber/cucumber-js.git"
+    "url": "git://github.com/kaaelhaa/cucumber-js.git"
   },
   "bugs": {
-    "email": "cukes@googlegroups.com",
-    "url": "http://github.com/cucumber/cucumber-js/issues"
+    "email": "klh+cukes@justfone.dk",
+    "url": "http://github.com/kaaelhaa/cucumber-js/issues"
   },
   "directories": {
     "lib": "./lib"
@@ -80,7 +80,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/cucumber/cucumber.js/LICENSE"
+      "url": "http://github.com/kaaelhaa/cucumber-js/LICENSE"
     }
   ],
   "optionalDependencies": {}
