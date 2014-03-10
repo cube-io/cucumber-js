@@ -59,7 +59,7 @@ Cucumber.js is still a work in progress. Here is its current status.
     </tr>
     <tr>
       <td><a href="https://github.com/cucumber/cucumber-tck/blob/master/i18n.feature">I18n</a></td>
-      <td>To do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td><a href="https://github.com/cucumber/cucumber-tck/blob/master/json_formatter.feature">JSON formatter</a></td>
@@ -71,7 +71,7 @@ Cucumber.js is still a work in progress. Here is its current status.
     </tr>
     <tr>
       <td><a href="https://github.com/cucumber/cucumber-tck/blob/master/scenario_outlines_and_examples.feature">Scenario outlines and examples</a></td>
-      <td>To do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td><a href="https://github.com/cucumber/cucumber-tck/blob/master/stats_collector.feature">Stats collector</a></td>
