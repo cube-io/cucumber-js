@@ -78,7 +78,7 @@
     "bower": "~1.2.7"
   },
   "scripts": {
-    "test": "./bin/cucumber.js && jasmine-node spec"
+    "test": "node ./bin/cucumber.js -f teamcity"
   },
   "bin": {
     "cucumber.js": "./bin/cucumber.js",
