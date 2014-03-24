@@ -13,7 +13,7 @@ cli.run(function (succeeded) {
         // Always exit with code 0, otherwise posttest script will not be executed.
         // Send message in stderr and exit.
         if (code !== 0) console.error("Test has failed!");
-        process.exit(0);
+        //process.exit(0);
     };
 
     // --- exit after waiting for all pending output ---
