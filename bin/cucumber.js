@@ -3,11 +3,6 @@ var Cucumber = require('../lib/cucumber');
 var cli = Cucumber.Cli(process.argv);
 cli.run(function (succeeded) {
 
-
-    process.on("exit", function(code) {
-        console.log("Exiting process with code " + code);
-    });
-
     var code = succeeded ? 0 : 1;
     var exitFunction = function () {
         // Always exit with code 0, otherwise posttest script will not be executed.
