@@ -8,7 +8,7 @@
     "gherkin",
     "tests"
   ],
-  "version": "0.4.1-justfone",
+  "version": "0.5.0-justfone",
   "homepage": "http://github.com/cucumber/cucumber-js",
   "author": "Julien Biezemans <jb@jbpros.com> (http://jbpros.net)",
   "contributors": [
