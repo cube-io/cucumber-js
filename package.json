@@ -8,7 +8,7 @@
     "gherkin",
     "tests"
   ],
-  "version": "0.5.0-justfone",
+  "version": "0.5.1-justfone",
   "homepage": "http://github.com/cucumber/cucumber-js",
   "author": "Julien Biezemans <jb@jbpros.com> (http://jbpros.net)",
   "contributors": [
@@ -42,7 +42,9 @@
     "Ben Van Treese <vantreeseba@gmail.com>",
     "Gabe Hayes <gabriel.hayes@gmail.com>",
     "Brian Clozel <brian.clozel@gmail.com>",
-    "Lukas Degener <l.degener@tarent.de>"
+    "Lukas Degener <l.degener@tarent.de>",
+    "Sven Johansen Herman <sjh@justfone.dk>",
+    "Kenn Leth Hansen <klh@justfone.dk>"
   ],
   "repository": {
     "type": "git",
